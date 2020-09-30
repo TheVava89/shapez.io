@@ -481,7 +481,7 @@ buildings:
                 haut.
         quad:
             name: Peintre (quadruple)
-            description: Colorie chaque quadrant d’une forme avec une couleur différente.
+            description: Colorie chaque quart d’une forme avec une couleur différente.
                 Seules les entrées recevant un <strong>signal vrai</strong> sur
                 le calque de câblage seront peintes !
     trash:
